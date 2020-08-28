@@ -1,0 +1,14 @@
+{
+    "name": "book-library",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "Joshua Mba",
+    "license": "ISC"
+}
