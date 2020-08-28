@@ -71,5 +71,6 @@ const router = {
     books: routeHandler.Books,
     notfound: routeHandler.notfound,
     register: routeHandler.register,
-    request: routeHandler.request
+    request: routeHandler.request,
+    return: routeHandler.return
 }
