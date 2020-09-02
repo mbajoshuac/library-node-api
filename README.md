@@ -25,10 +25,10 @@ NB: Admin can't be registered :::
 Book Input Format:::
 
 {
-    "name": "My new Book2",
+    "name": "nodejs HardCore",
     "author": "Harmes Diaz",
     "price": 4400,
-    "isbn" : "234-5050-33"
+    "isbn" : "234-5050-33",
     "publisher": "Microsoft",
-    "quantity" : "5"
+    "copies" : 5
     }
