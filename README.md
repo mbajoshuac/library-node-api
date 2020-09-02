@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/mbajoshuac/library-node-api)](https://repl.it/github/mbajoshuac/library-node-api)
+
 Just a Node native server with routes for endpoint that permits.
 
 1. User Registration
