@@ -70,7 +70,7 @@ const router = {
     ping: routeHandler.ping,
     books: routeHandler.Books,
     notfound: routeHandler.notfound,
-    register: routeHandler.register,
+    user: routeHandler.user,
     request: routeHandler.request,
     return: routeHandler.return
 }
